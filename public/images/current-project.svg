@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#d9d2c5"/>
+  <rect x="100" y="180" width="1200" height="610" fill="#ece6da"/>
+  <rect x="170" y="250" width="420" height="350" fill="#a9aca8"/>
+  <rect x="810" y="250" width="420" height="350" fill="#a9aca8"/>
+  <rect x="620" y="430" width="160" height="360" fill="#765f46"/>
+  <path d="M70 210 700 30l630 180" fill="#34423b"/>
+  <g stroke="#b7934b" stroke-width="10" opacity=".7"><path d="M0 760h1400"/><path d="M230 0v900"/><path d="M1080 0v900"/></g>
+  <text x="700" y="840" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#2c2c2a">Replace with current project photography</text>
+</svg>
